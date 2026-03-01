@@ -1,0 +1,7 @@
+web3==6.15.0
+eth-account==0.11.0
+requests
+colorama
+rich
+cryptography
+

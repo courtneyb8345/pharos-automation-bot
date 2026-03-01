@@ -1,0 +1,4 @@
+# Add one private key per line (without 0x)
+# your_private_key_1
+# your_private_key_2
+

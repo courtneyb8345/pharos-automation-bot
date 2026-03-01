@@ -1,0 +1,11 @@
+{
+  "pools": [
+    {
+      "name": "Example Pool",
+      "address": "0x0000000000000000000000000000000000000000",
+      "token0": "PHRS",
+      "token1": "USDT"
+    }
+  ]
+}
+

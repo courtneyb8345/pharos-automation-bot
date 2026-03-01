@@ -1,0 +1,5 @@
+# One proxy per line. Supported formats:
+# 127.0.0.1:8080
+# http://user:pass@127.0.0.1:8080
+# socks5://127.0.0.1:1080
+
